@@ -10,11 +10,11 @@
 ### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
-- [`Dart` 中序列化与持久化](https://juejin.cn/post/7033601493143928839)
-- [打卡 `RepaintBoundary`， widget 渲染转图像](https://juejin.cn/post/7031791888277438477)
-- [使用`native`网络层，处理`flutter`单线程卡顿](https://juejin.cn/post/7023994359938809863)
-- [Dart：总结开发中 `Stream` 用法及场景](https://juejin.cn/post/7021062808326373383)
-- [绕开`setState`，直接使用`Element`实现状态管理，关联刷新](https://juejin.cn/post/7017697466115948551)
+- [「干货整理」记录青春，工作中用到的 App 性能优化](https://juejin.cn/post/7035886363060731911)
+- [Dart编码：关于构造函数，这些知识点你都了解吗？](https://juejin.cn/post/7035148966291308580)
+- [Dart编码：聊聊字符串使用规范](https://juejin.cn/post/7034759938832334862)
+- [高效开发：分享 `extension` 有趣的用法](https://juejin.cn/post/7034439067269857294)
+- [Dart 编码规范：`多态` 和 `控制反转`最佳实践](https://juejin.cn/post/7034024807410696199)
 <!-- BLOG-POST-LIST:END -->
 
 ***
