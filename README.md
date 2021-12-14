@@ -14,7 +14,7 @@
 - [「干货整理」记录青春，工作中用到的 App 性能优化](https://juejin.cn/post/7035886363060731911)
 - [Dart编码：关于构造函数，这些知识点你都了解吗？](https://juejin.cn/post/7035148966291308580)
 - [Dart编码：聊聊字符串使用规范](https://juejin.cn/post/7034759938832334862)
-- [高效开发：分享 `extension` 有趣的用法](https://juejin.cn/post/7034439067269857294)
+- [Dart编码：这样使用`extension`，效率提升一倍](https://juejin.cn/post/7034439067269857294)
 <!-- BLOG-POST-LIST:END -->
 
 ***
