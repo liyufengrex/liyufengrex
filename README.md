@@ -10,11 +10,11 @@
 ### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
-- [Bloc 更新，比较  onEvent  和 mapEventToState 的差异特性](https://juejin.cn/post/7051822753401274375)
+- [初学者易犯错，谨慎使用`const widget`](https://juejin.cn/post/7052620544222593037)
+- [聊聊 Bloc 更新后`事件`的同步与异步](https://juejin.cn/post/7051822753401274375)
 - [Dart 2.15 更新后 isolate 应该这么用](https://juejin.cn/post/7049990302739726366)
 - [一两黄金一两风，去看一场雪，攀一座山 。「2021年终总结，追梦的故事」](https://juejin.cn/post/7036976909959299080)
 - [「干货整理」记录青春，工作中用到的 App 性能优化](https://juejin.cn/post/7035886363060731911)
-- [Dart编码：关于构造函数，这些知识点你都了解吗？](https://juejin.cn/post/7035148966291308580)
 <!-- BLOG-POST-LIST:END -->
 
 ***
