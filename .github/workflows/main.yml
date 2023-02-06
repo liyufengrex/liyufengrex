@@ -63,7 +63,7 @@ jobs:
           
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://localhost:1200/juejin/posts/3157453124930039"
+          feed_list: "http://localhost:1200/juejin.cn/user/3157453124930039"
           
       - name: Stop containers
         if: always()
