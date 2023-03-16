@@ -10,11 +10,13 @@
 ### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
-- [在 flutter 中如何使用和扩展 `ThemeData`](https://juejin.cn/post/7065585593786302500)
-- [flutter：聊聊 Bloc 更新后`事件`的同步与异步](https://juejin.cn/post/7051822753401274375)
+- [flutter：小票标签打印【跨平台解决方案】](https://juejin.cn/post/7210688688921395237)
+- [flutter：如何优雅的实现扫码枪获取数据源](https://juejin.cn/post/7186991958638723132)
 - [Dart 2.15 更新后 isolate 应该这么用](https://juejin.cn/post/7049990302739726366)
-- [一两黄金一两风，去看一场雪，攀一座山 。「2021年终总结，追梦的故事」](https://juejin.cn/post/7036976909959299080)
-- [「干货整理」记录青春，工作中用到的 App 性能优化](https://juejin.cn/post/7035886363060731911)
+- [flutter：解刨 Inherited 局部刷新实现原理](https://juejin.cn/post/7016596576722223118)
+- [flutter：探究 `element` 内部如何实现状态管理，关联刷新](https://juejin.cn/post/7017697466115948551)
+- [flutter：双屏插件](https://juejin.cn/post/7007678468020240414)
+- [flutter: 解析 Bloc 实现原理](https://juejin.cn/post/7007683747512320014)
 <!-- BLOG-POST-LIST:END -->
 
 ***
