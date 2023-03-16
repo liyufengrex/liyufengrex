@@ -16,7 +16,7 @@
 - [flutter：解刨 Inherited 局部刷新实现原理](https://juejin.cn/post/7016596576722223118)
 - [flutter：探究 `element` 内部如何实现状态管理，关联刷新](https://juejin.cn/post/7017697466115948551)
 - [flutter：双屏插件](https://juejin.cn/post/7007678468020240414)
-- [flutter: 解析 Bloc 实现原理](https://juejin.cn/post/7007683747512320014)
+- [flutter：解析 Bloc 实现原理](https://juejin.cn/post/7007683747512320014)
 <!-- BLOG-POST-LIST:END -->
 
 ***
