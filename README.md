@@ -17,6 +17,7 @@
 - [flutter：探究 `element` 内部如何实现状态管理，关联刷新](https://juejin.cn/post/7017697466115948551)
 - [flutter：双屏插件开发](https://juejin.cn/post/7007678468020240414)
 - [flutter：解析 Bloc 实现原理](https://juejin.cn/post/7007683747512320014)
+- [Widget、Element、RenderObject 关系结构解析](https://juejin.cn/post/7007685728133971999)
 <!-- BLOG-POST-LIST:END -->
 
 ***
