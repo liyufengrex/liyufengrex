@@ -2,12 +2,11 @@
 
 > `Android`、`Flutter` 开发工作者。
 
-### 🏠 博客，不定期更文，欢迎交流讨论
+### 「博客」，不定期更文，欢迎交流讨论
 
-+ [我的掘金主页链接](https://juejin.cn/user/3157453124930039) 
-+ [我的简书主页链接](https://www.jianshu.com/u/5730e5049f21) 
++ [我的掘金主页](https://juejin.cn/user/3157453124930039) 🚌
 
-### 最近更新：
+### 🏠 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
 - [flutter：小票标签打印【跨平台解决方案】](https://juejin.cn/post/7210688688921395237)
@@ -22,4 +21,5 @@
 
 ***
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+
 
