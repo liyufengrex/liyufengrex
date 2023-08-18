@@ -1,12 +1,9 @@
-## Hey，我是李小轰🔅
+## Hey，我是李小轰🔅 
+           
+> `Android`、`Flutter` 开发工作者。 [「博客主页」](https://juejin.cn/user/3157453124930039)，不定期更文，欢迎交流讨论
 
-> `Android`、`Flutter` 开发工作者。
-
-### 「博客」，不定期更文，欢迎交流讨论
-
-+ [我的掘金主页](https://juejin.cn/user/3157453124930039) 🚌
-
-### 🏠 最近更新：
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyufengrex&hide_progress=true)
+#### 🏠 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
 - [flutter：小票标签打印【跨平台解决方案】](https://juejin.cn/post/7210688688921395237)
