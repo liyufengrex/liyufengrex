@@ -2,7 +2,7 @@
            
 > `Android`、`Flutter` 开发工作者。 [「博客主页」](https://juejin.cn/user/3157453124930039)，不定期更文，欢迎交流讨论
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyufengrex&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyufengrex&layout=compact&theme=buefy&hide=c,python)
 #### 🏠 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
