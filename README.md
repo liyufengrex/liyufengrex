@@ -9,7 +9,7 @@
 - [flutter：小票标签打印【跨平台解决方案】](https://juejin.cn/post/7210688688921395237)
 - [flutter：扫码枪获取数据源（多平台适用方案）](https://juejin.cn/post/7186991958638723132)
 - [flutter：电子秤连接、数据获取（适配Android、Windows）](https://juejin.cn/post/7275280984290852923)
-- [flutter：双屏插件开发](https://juejin.cn/post/7007678468020240414)
+- [flutter：双屏插件【客显屏应用场景解决方案】](https://juejin.cn/post/7007678468020240414)
 - [flutter：解刨 `Inherited` 局部刷新实现原理](https://juejin.cn/post/7016596576722223118)
 - [flutter：探究 `element` 内部如何实现状态管理，关联刷新](https://juejin.cn/post/7017697466115948551)
 - [`Widget`、`Element`、`RenderObject` 关系结构解析](https://juejin.cn/post/7007685728133971999)
