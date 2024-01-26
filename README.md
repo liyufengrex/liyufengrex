@@ -1,8 +1,20 @@
 ## Hey，我是李小轰🔅 
-           
-> `Android`、`Flutter` 开发工作者。 [「博客主页」](https://juejin.cn/user/3157453124930039)，不定期更文，欢迎交流讨论
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyufengrex&layout=compact&theme=buefy&hide=c,python)
+#### 关于我
+
+- 🔭 介绍: 一名 `Android`、`Flutter` 开发工作者，喜欢尝试各种新玩意儿。重度强迫症（匠心精神），乐于分享！
+- 💬 博客: [「主页链接」](https://juejin.cn/user/3157453124930039)，不定期更文，欢迎交流讨论😎
+- ⚡ 签名: 有趣的灵魂，拒绝沉默。
+
+#### 以下是我的开源项目总览
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=liyufengrex&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="liyufengrex's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3157453124930039&hide_border=true&theme=vue-light" alt="李小轰的掘金数据" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
+
 #### 🏠 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
