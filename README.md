@@ -41,11 +41,6 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/liyufengrex/flutter_printer_plus">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_printer_plus&theme=vue-light&hide_border=true&show_owner=true" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/liyufengrex/flutter_scan_gun">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_scan_gun&theme=vue-light&hide_border=true&show_owner=true" />
       </a>
