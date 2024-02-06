@@ -37,12 +37,12 @@
   <tr>
     <td>
       <a href="https://github.com/liyufengrex/flutter_subscreen_plugin">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_subscreen_plugin&theme=vue-light&hide_border=true&show_owner=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_subscreen_plugin&theme=vue-light&hide_border=true" />
       </a>
     </td>
     <td>
       <a href="https://github.com/liyufengrex/flutter_scan_gun">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_scan_gun&theme=vue-light&hide_border=true&show_owner=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_scan_gun&theme=vue-light&hide_border=true" />
       </a>
     </td>
   </tr>
