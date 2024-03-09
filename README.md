@@ -48,6 +48,16 @@
   </tr>
 </table>
 
+#### ❤️ Top Studying
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/liyufengrex/flutter_subscreen_plugin">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=HarmonyAtomicService&theme=vue-light&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
