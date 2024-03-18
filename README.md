@@ -15,23 +15,10 @@
   </tr>
 </table>
 
-#### 🏠 最近更新：
 
-<!-- BLOG-POST-LIST:START -->
-- [flutter：小票标签打印【跨平台解决方案】](https://juejin.cn/post/7210688688921395237)
-- [flutter：打印模版动态化方案](https://juejin.cn/spost/7301242165278769179)
-- [flutter：扫码枪获取数据源（多平台适用方案）](https://juejin.cn/post/7186991958638723132)
-- [flutter：电子秤连接、数据获取（适配Android、Windows）](https://juejin.cn/post/7275280984290852923)
-- [flutter：双屏插件（客显屏应用场景）](https://juejin.cn/post/7007678468020240414)
-- [flutter：探究 `element` 内部如何实现状态管理，关联刷新](https://juejin.cn/post/7017697466115948551)
-- [`Widget`、`Element`、`RenderObject` 关系结构解析](https://juejin.cn/post/7007685728133971999)
-<!-- BLOG-POST-LIST:END -->
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image](https://img.shields.io/badge/HarmonyOS-3DDC84?style=for-the-badge&logo=harmonyOS&logoColor=white) ![image](https://img.shields.io/badge/ArkTS-0175C2?style=for-the-badge&logo=ArkTS&logoColor=white)
 
-<br />
-
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-
-#### ❤️ Top Repositories
+#### ❤️ Flutter Top Repositories
 
 <table>
   <tr>
@@ -48,7 +35,7 @@
   </tr>
 </table>
 
-#### ❤️ Top Studying
+#### ❤️ HarmonyOS Studying
 <table>
   <tr>
     <td>
@@ -56,8 +43,29 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=HarmonyAtomicService&theme=vue-light&hide_border=true" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/liyufengrex/fast_http_request">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=fast_http_request&theme=vue-light&hide_border=true" />
+      </a>
+    </td>
   </tr>
 </table>
+
+#### 🏠 最近更新：
+
+<!-- BLOG-POST-LIST:START -->
+- [flutter：小票标签打印【跨平台解决方案】](https://juejin.cn/post/7210688688921395237)
+- [flutter：打印模版动态化方案](https://juejin.cn/spost/7301242165278769179)
+- [flutter：扫码枪获取数据源（多平台适用方案）](https://juejin.cn/post/7186991958638723132)
+- [flutter：电子秤连接、数据获取（适配Android、Windows）](https://juejin.cn/post/7275280984290852923)
+- [flutter：双屏插件（客显屏应用场景）](https://juejin.cn/post/7007678468020240414)
+- [flutter：探究 `element` 内部如何实现状态管理，关联刷新](https://juejin.cn/post/7017697466115948551)
+- [`Widget`、`Element`、`RenderObject` 关系结构解析](https://juejin.cn/post/7007685728133971999)
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
+
 
 
 
