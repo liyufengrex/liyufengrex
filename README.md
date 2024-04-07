@@ -30,7 +30,7 @@
 </table>
 
 
-#### ❤️  Flutter Repositories
+#### ❤️  Repositories Flutter 
 
 <table>
   <tr>
@@ -47,7 +47,7 @@
   </tr>
 </table>
 
-#### 🏅📝 HarmonyOS Repositories
+#### 🏅📝 Repositories HarmonyOS 
 <table>
   <tr>
     <td>
