@@ -15,6 +15,8 @@
 - [flutter：扫码枪获取数据源（多平台适用方案）](https://juejin.cn/post/7186991958638723132)
 - [flutter：电子秤连接、数据获取（适配Android、Windows）](https://juejin.cn/post/7275280984290852923)
 - [flutter：双屏插件（客显屏应用场景）](https://juejin.cn/post/7007678468020240414)
+- [flutter：知识储备、深入浅出、整理总结实战应用中遇到的问题场景 ](https://juejin.cn/column/7039538334820990983)
+- [HarmonyOS：鸿蒙 NEXT 实战开发专栏 ](https://juejin.cn/column/7344258220389335094)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
@@ -29,9 +31,9 @@
   </tr>
 </table>
 
+</br>
 
-#### ❤️ Flutter TOP Repositories
-
+#### ❤️ Flutter TOP Repositories 
 <table>
   <tr>
     <td>
@@ -46,6 +48,22 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/liyufengrex/flutter_printer_plus">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_printer_plus&theme=vue-light&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/liyufengrex/print_image_generate_tool">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=print_image_generate_tool&theme=vue-light&hide_border=true&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</br>
 
 #### 🏅📝 HarmonyOS Repositories
 <table>
@@ -62,6 +80,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
