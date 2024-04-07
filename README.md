@@ -56,7 +56,7 @@
     </td>
     <td>
       <a href="https://github.com/liyufengrex/print_image_generate_tool">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=print_image_generate_tool&theme=vue-light&hide_border=true&show_owner=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=print_image_generate_tool&theme=vue-light&hide_border=true&show_owner=false" />
       </a>
     </td>
   </tr>
