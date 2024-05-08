@@ -23,6 +23,11 @@
 
 #### 以下是我的开源项目总览
 
+- 💡 涉猎：`电商App`、`VR应用（入驻小米眼镜）`、`政务、教育（智慧城市）`、`收银POS、自动摇茶机（数字化）`等。
+- 🚀 独立维护开源库：`副屏双引擎插件`、`扫码枪跨平台插件`、`小票标签跨平台插件`、`称重插件`
+
+</br>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=liyufengrex&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="liyufengrex's GitHub stats" style="zoom:100%;" align="left"/></td>
