@@ -19,12 +19,12 @@
 <!-- BLOG-POST-LIST:END -->
 </br>
 
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image](https://img.shields.io/badge/HarmonyOS-3DDC84?style=for-the-badge&logo=harmonyOS&logoColor=white) ![image](https://img.shields.io/badge/ArkTS-0175C2?style=for-the-badge&logo=ArkTS&logoColor=white) ![image](https://img.shields.io/badge/李小轰-rex-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image](https://img.shields.io/badge/HarmonyOS-3DDC84?style=for-the-badge&logo=harmonyOS&logoColor=white) ![image](https://img.shields.io/badge/ArkTS-0175C2?style=for-the-badge&logo=ArkTS&logoColor=white) ![image](https://img.shields.io/badge/李小轰-rex-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### 以下是我的开源项目总览
 
-- 💡 涉猎：`电商App`、`VR应用`、`政务、教育（智慧城市）`、`收银POS、自动摇茶机（数字化）`等。
-- 🚀 独立维护开源库：`副屏双引擎插件`、`扫码枪跨平台插件`、`小票标签跨平台插件`、`称重插件`
+- 💡 涉猎：`电商App`、`VR应用`、`政务、教育（智慧城市）`、`收银POS、自动摇茶机（数字化）`、`鸿蒙纯血` 等。
+- 🚀 开源库：`副屏双引擎插件`、`扫码枪跨平台插件`、`小票标签跨平台插件`、`称重插件`、`flutter 动态化`
 
 </br>
 
