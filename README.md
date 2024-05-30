@@ -8,22 +8,7 @@
 - ⚡ 签名: 有趣的灵魂，拒绝沉默。
 
 
-#### 最近更新 ✨
-<!-- posts start -->
-<ul>
-<li>[3天前] <a href="https://juejin.cn/post/7373194499530244136">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a></li>
-<li>[14天前] <a href="https://juejin.cn/post/7369120920148213795">HarmonyOS ：Router 和 NavPatchStatck 如何实现跳转（传参）及页面回调 </a></li>
-<li>[1月前] <a href="https://juejin.cn/post/7352100456334721034">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a></li>
-<li>[1月前] <a href="https://juejin.cn/post/7352075796712964122">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a></li>
-<li>[1月前] <a href="https://juejin.cn/post/7352450333911662601">HarmonyOS ：自定义组件 @BuilderParam 中 this 作用域填坑小记</a></li>
-<li>[2月前] <a href="https://juejin.cn/post/7347851786164437002">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a></li>
-<li>[2月前] <a href="https://juejin.cn/post/7344258231479369769">HarmonyOS ：去繁化简，实战整理的开发者清单【NEXT版本】</a></li>
-<li>[4月前] <a href="https://juejin.cn/post/7329722122656645146">Dart 脚本：生成树状图，模块依赖可视化</a></li>
-<li>[5月前] <a href="https://juejin.cn/post/7311876701909614601">flutter：【实战篇】MLKIT 实现OCR文本识别，再也不用付费SDK了</a></li>
-<li>[5月前] <a href="https://juejin.cn/post/7308553288399355930">flutter：快速建构App，常用三方库汇总。【涵盖各种功能和业务】</a></li>
-</ul>
-<!-- posts end -->
-
+#### 热门方案 ✨
 <!-- BLOG-POST-LIST:START -->
 - [flutter：小票标签打印【跨平台解决方案】](https://juejin.cn/post/7210688688921395237)
 - [flutter：打印模版动态化方案](https://juejin.cn/spost/7301242165278769179)
@@ -45,13 +30,32 @@
 
 </br>
 
-<table>
+<!-- 活动 -->
+<table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=liyufengrex&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="liyufengrex's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <!--<td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3157453124930039&hide_border=true&theme=vue-light" alt="李小轰的掘金数据" style="zoom:100%;" align="left"/></td>-->
+    <td align="center" width="45%" valign="top">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <!--    由工作流定时生成     -->
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+      <img src="https://github-readme-stats.vercel.app/api?username=liyufengrex&hide_border=true&show_icons=true&theme=vue-light"/>
+    </td>
+    <td align="left" width="55%" valign="top">
+      <div align="center"><b><em><spam>Article</spam></em></b>
+    </div>
+<!--    由工作流定时生成     -->
+<!-- posts start -->
+
+<!-- posts end -->
+    </td>
   </tr>
 </table>
 
+<!-- 贪吃蛇, 由工作流定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
 </br>
 
 #### ❤️ Flutter TOP Repositories 
