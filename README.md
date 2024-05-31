@@ -42,7 +42,7 @@
         <td align="left" width="55%" valign="top">
       <div align="center"><b><em><spam>Article</spam></em></b></div>
       <!--    由工作流定时生成     -->
-      <!-- posts start -->
+      <!-- multi-platform-posts start -->
 <ul>
 <li>[3天前] <a href="https://juejin.cn/post/7373194499530244136">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a></li>
 <li>[14天前] <a href="https://juejin.cn/post/7369120920148213795">HarmonyOS ：Router 和 NavPatchStatck 如何实现跳转（传参）及页面回调 </a></li>
@@ -55,7 +55,7 @@
 <li>[5月前] <a href="https://juejin.cn/post/7311876701909614601">flutter：【实战篇】MLKIT 实现OCR文本识别，再也不用付费SDK了</a></li>
 <li>[5月前] <a href="https://juejin.cn/post/7308553288399355930">flutter：快速建构App，常用三方库汇总。【涵盖各种功能和业务】</a></li>
 </ul>
-<!-- posts end -->
+<!-- multi-platform-posts end -->
     </td>
   </tr>
 </table>
