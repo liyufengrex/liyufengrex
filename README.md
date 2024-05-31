@@ -39,11 +39,10 @@
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
       <img src="https://github-readme-stats.vercel.app/api?username=liyufengrex&hide_border=true&show_icons=true&theme=vue-light"/>
     </td>
-    <td align="left" width="55%" valign="top">
-      <div align="center"><b><em><spam>Article</spam></em></b>
-    </div>
-<!--    由工作流定时生成     -->
-<!-- posts start -->
+        <td align="left" width="55%" valign="top">
+      <div align="center"><b><em><spam>Article</spam></em></b></div>
+      <!--    由工作流定时生成     -->
+      <!-- posts start -->
 <ul>
 </ul>
 <!-- posts end -->
@@ -51,12 +50,6 @@
   </tr>
 </table>
 
-<!-- 贪吃蛇, 由工作流定时生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
 </br>
 
 #### ❤️ Flutter TOP Repositories 
@@ -106,6 +99,14 @@
     </td>
   </tr>
 </table>
+
+<br/>
+<!-- 贪吃蛇, 由工作流定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
 
 
 
