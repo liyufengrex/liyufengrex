@@ -3,7 +3,7 @@
 #### 关于我
 
 - 🔭 简介: 目前从事 `Android`、`Flutter`、`HarmonyOS` 开发工作，喜欢尝试各种新玩意儿。重度强迫症（匠心精神），乐于分享！
-- 💬 博客: [「主页链接」](https://juejin.cn/user/3157453124930039)，不定期更文，欢迎交流讨论😎。    [「鸿蒙 NEXT 开发专栏」](https://juejin.cn/column/7344258220389335094)、
+- 💬 博客: [「主页链接」](https://juejin.cn/user/3157453124930039)，[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3157453124930039&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3157453124930039) 不定期更文，欢迎交流讨论😎。    [「鸿蒙 NEXT 开发专栏」](https://juejin.cn/column/7344258220389335094)、
           [「Flutter 开发专栏」](https://juejin.cn/column/7039538334820990983)
 - ⚡ 签名: 有趣的灵魂，拒绝沉默。
 
