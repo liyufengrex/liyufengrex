@@ -48,7 +48,7 @@
   <table align="center">
       <tr>
         <td align="center" width="800px" valign="top">
-          <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
+          <div align="center"><img src='https://raw.githubusercontent.com/liyufengrex/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
 <li align='left'>[6天前 👍：5  ⭐：3]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
