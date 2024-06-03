@@ -44,10 +44,10 @@
       <div align="center"><b><em><spam>Article</spam></em></b></div>
       <br/>  
       <!--    由工作流定时生成     -->
-      <!-- rex-platform-posts start -->
+      <!-- multi-platform-posts start -->
 
 
-      <!-- rex-platform-posts end -->
+      <!-- multi-platform-posts end -->
     </td>
   </tr>
 </table>
