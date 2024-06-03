@@ -45,6 +45,10 @@
       <br/>  
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
+  <table align="center">
+      <tr>
+        <td align="center" width="800px" valign="top">
+          <div align="center"><img src='https://raw.githubusercontent.com/liyufengrex/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
 <li align='left'>[6天前 👍：5  ⭐：3]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
@@ -77,6 +81,9 @@
       <a href="https://juejin.cn/post/7308553288399355930" target="_blank">flutter：快速建构App，常用三方库汇总。【涵盖各种功能和业务】</a>
       </li>
 </ul>
+        </td>
+      </tr>
+    </table>
     <!-- multi-platform-posts end -->
     </td>
   </tr>
