@@ -43,9 +43,9 @@
 </table>
 
 <!-- 最近更新 -->
-<table width="100%">
-  <tr width="100%">
-   <td width="100%" >
+<table width="1280px">
+  <tr width="1280px">
+   <td width="1280px" >
       <div align="center"><b><em><spam>Article（最近更新）</spam></em></b></div>
       <br/>  
       <!--    由工作流定时生成     -->
