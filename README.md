@@ -30,7 +30,6 @@
 
 </br>
 
-<!-- 活动 -->
 <table align="center">
   <tr>
     <td align="center" width="40%" valign="top">
@@ -40,8 +39,14 @@
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
       <img src="https://github-readme-stats.vercel.app/api?username=liyufengrex&hide_border=true&show_icons=true&theme=vue-light"/>
     </td>
-    <td align="left" width="60%" valign="top">
-      <div align="center"><b><em><spam>Article</spam></em></b></div>
+  </tr>
+</table>
+
+<!-- 最近更新 -->
+<table width="100%">
+  <tr width="100%">
+   <td width="100%" >
+      <div align="center"><b><em><spam>Article（最近更新）</spam></em></b></div>
       <br/>  
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
@@ -52,37 +57,13 @@
 <li align='left'>[20天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">HarmonyOS ：Router 和 NavPatchStatck 如何实现跳转（传参）及页面回调 </a>
       </li>
-<li align='left'>[2个月前 👍：12  ⭐：6]
-      <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
-      </li>
-<li align='left'>[2个月前 👍：7  ⭐：8]
-      <a href="https://juejin.cn/post/7352075796712964122" target="_blank">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a>
-      </li>
-<li align='left'>[2个月前 👍：3  ⭐：1]
-      <a href="https://juejin.cn/post/7352450333911662601" target="_blank">HarmonyOS ：自定义组件 @BuilderParam 中 this 作用域填坑小记</a>
-      </li>
-<li align='left'>[2个月前 👍：17  ⭐：19]
-      <a href="https://juejin.cn/post/7347851786164437002" target="_blank">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a>
-      </li>
-<li align='left'>[2个月前 👍：22  ⭐：30]
-      <a href="https://juejin.cn/post/7344258231479369769" target="_blank">HarmonyOS ：去繁化简，实战整理的开发者清单【NEXT版本】</a>
-      </li>
-<li align='left'>[4个月前 👍：9  ⭐：12]
-      <a href="https://juejin.cn/post/7329722122656645146" target="_blank">Dart 脚本：生成树状图，模块依赖可视化</a>
-      </li>
-<li align='left'>[5个月前 👍：67  ⭐：135]
-      <a href="https://juejin.cn/post/7311876701909614601" target="_blank">flutter：【实战篇】MLKIT 实现OCR文本识别，再也不用付费SDK了</a>
-      </li>
-<li align='left'>[6个月前 👍：253  ⭐：761]
-      <a href="https://juejin.cn/post/7308553288399355930" target="_blank">flutter：快速建构App，常用三方库汇总。【涵盖各种功能和业务】</a>
-      </li>
 </ul>
     <!-- multi-platform-posts end -->
-    </td>
+   <br/>  
+  </td>
   </tr>
-</table>
-
 </br>
+</table>
 
 #### ❤️ Flutter TOP Repositories 
 <table>
@@ -114,8 +95,6 @@
   </tr>
 </table>
 
-</br>
-
 #### 🏅📝 HarmonyOS Repositories
 <table>
   <tr>
@@ -134,11 +113,16 @@
 
 <br/>
 <!-- 贪吃蛇, 由工作流定时生成 -->
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
+-->
+
+<br/>
+
 
 
 
