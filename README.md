@@ -12,7 +12,7 @@
 #### 热门解决方案 ✨
 <!-- BLOG-POST-LIST:START -->
 - [flutter：双屏插件（客显屏应用场景）](https://juejin.cn/post/7007678468020240414)
-- [flutter：小票标签打印（跨平台解决方案，可扩展，已适配 Android、 Windows、Net 等)](https://juejin.cn/post/7210688688921395237)
+- [flutter：小票标签打印（使用widget开发票据样式的跨平台解决方案)](https://juejin.cn/post/7210688688921395237)
 - [flutter：扫码枪获取数据（多平台适用方案）](https://juejin.cn/post/7186991958638723132)
 - [flutter：电子秤连接、数据获取（适配Android、Windows）](https://juejin.cn/post/7275280984290852923)
 - [flutter：打印模版动态化方案](https://juejin.cn/spost/7301242165278769179)
