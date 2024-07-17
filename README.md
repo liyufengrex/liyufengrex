@@ -36,7 +36,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[1个月前 👍：3  ⭐：2]
+<li align='left'>[15小时前 👍：1  ⭐：0]
+      <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
+      </li>
+<li align='left'>[1个月前 👍：3  ⭐：3]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS ：自定义节点，实现 UI 组件 动态创建、更新</a>
       </li>
 <li align='left'>[1个月前 👍：5  ⭐：6]
@@ -54,17 +57,14 @@
 <li align='left'>[3个月前 👍：4  ⭐：1]
       <a href="https://juejin.cn/post/7352450333911662601" target="_blank">HarmonyOS ：自定义组件 @BuilderParam 中 this 作用域填坑小记</a>
       </li>
-<li align='left'>[3个月前 👍：26  ⭐：37]
+<li align='left'>[4个月前 👍：26  ⭐：37]
       <a href="https://juejin.cn/post/7347851786164437002" target="_blank">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a>
       </li>
-<li align='left'>[4个月前 👍：29  ⭐：66]
+<li align='left'>[4个月前 👍：29  ⭐：68]
       <a href="https://juejin.cn/post/7344258231479369769" target="_blank">HarmonyOS ：去繁化简，实战整理的开发者清单【NEXT版本】</a>
       </li>
 <li align='left'>[5个月前 👍：9  ⭐：13]
       <a href="https://juejin.cn/post/7329722122656645146" target="_blank">Dart 脚本：生成树状图，模块依赖可视化</a>
-      </li>
-<li align='left'>[7个月前 👍：69  ⭐：141]
-      <a href="https://juejin.cn/post/7311876701909614601" target="_blank">flutter：【实战篇】MLKIT 实现OCR文本识别，再也不用付费SDK了</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
