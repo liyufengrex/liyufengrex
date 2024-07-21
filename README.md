@@ -36,7 +36,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[3天前 👍：2  ⭐：4]
+<li align='left'>[4天前 👍：2  ⭐：4]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：4]
@@ -60,7 +60,7 @@
 <li align='left'>[4个月前 👍：29  ⭐：40]
       <a href="https://juejin.cn/post/7347851786164437002" target="_blank">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a>
       </li>
-<li align='left'>[4个月前 👍：31  ⭐：71]
+<li align='left'>[4个月前 👍：31  ⭐：72]
       <a href="https://juejin.cn/post/7344258231479369769" target="_blank">HarmonyOS ：去繁化简，实战整理的开发者清单【NEXT版本】</a>
       </li>
 <li align='left'>[5个月前 👍：9  ⭐：13]
