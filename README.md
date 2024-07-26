@@ -36,13 +36,13 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[8天前 👍：3  ⭐：4]
+<li align='left'>[9天前 👍：3  ⭐：4]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS ：自定义节点，实现 UI 组件 动态创建、更新</a>
       </li>
-<li align='left'>[1个月前 👍：5  ⭐：8]
+<li align='left'>[2个月前 👍：5  ⭐：8]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
 <li align='left'>[2个月前 👍：6  ⭐：8]
