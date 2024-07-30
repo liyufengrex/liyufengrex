@@ -36,7 +36,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[12天前 👍：4  ⭐：4]
+<li align='left'>[13天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：4]
@@ -48,13 +48,13 @@
 <li align='left'>[2个月前 👍：6  ⭐：8]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">HarmonyOS ：Router 和 NavPatchStatck 如何实现跳转（传参）及页面回调 </a>
       </li>
-<li align='left'>[3个月前 👍：16  ⭐：19]
+<li align='left'>[4个月前 👍：16  ⭐：19]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
-<li align='left'>[3个月前 👍：12  ⭐：19]
+<li align='left'>[4个月前 👍：13  ⭐：19]
       <a href="https://juejin.cn/post/7352075796712964122" target="_blank">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a>
       </li>
-<li align='left'>[3个月前 👍：5  ⭐：1]
+<li align='left'>[4个月前 👍：5  ⭐：1]
       <a href="https://juejin.cn/post/7352450333911662601" target="_blank">HarmonyOS ：自定义组件 @BuilderParam 中 this 作用域填坑小记</a>
       </li>
 <li align='left'>[4个月前 👍：34  ⭐：44]
