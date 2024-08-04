@@ -36,7 +36,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[17天前 👍：4  ⭐：4]
+<li align='left'>[18天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：4]
