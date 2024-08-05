@@ -36,7 +36,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[18天前 👍：4  ⭐：4]
+<li align='left'>[15小时前 👍：1  ⭐：4]
+      <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
+      </li>
+<li align='left'>[19天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：4]
@@ -62,9 +65,6 @@
       </li>
 <li align='left'>[4个月前 👍：32  ⭐：78]
       <a href="https://juejin.cn/post/7344258231479369769" target="_blank">HarmonyOS ：去繁化简，实战整理的开发者清单【NEXT版本】</a>
-      </li>
-<li align='left'>[6个月前 👍：9  ⭐：13]
-      <a href="https://juejin.cn/post/7329722122656645146" target="_blank">Dart 脚本：生成树状图，模块依赖可视化</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
