@@ -37,13 +37,13 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[5天前 👍：3  ⭐：6]
+<li align='left'>[6天前 👍：3  ⭐：6]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
-<li align='left'>[24天前 👍：4  ⭐：4]
+<li align='left'>[25天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
-<li align='left'>[1个月前 👍：4  ⭐：4]
+<li align='left'>[2个月前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS ：自定义节点，实现 UI 组件 动态创建、更新</a>
       </li>
 <li align='left'>[2个月前 👍：5  ⭐：11]
@@ -52,7 +52,7 @@
 <li align='left'>[2个月前 👍：6  ⭐：8]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">HarmonyOS ：Router 和 NavPatchStatck 如何实现跳转（传参）及页面回调 </a>
       </li>
-<li align='left'>[4个月前 👍：17  ⭐：20]
+<li align='left'>[4个月前 👍：17  ⭐：21]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
 <li align='left'>[4个月前 👍：13  ⭐：21]
