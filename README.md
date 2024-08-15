@@ -37,10 +37,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[9天前 👍：3  ⭐：10]
+<li align='left'>[10天前 👍：3  ⭐：10]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
-<li align='left'>[28天前 👍：4  ⭐：6]
+<li align='left'>[29天前 👍：4  ⭐：6]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[2个月前 👍：4  ⭐：4]
@@ -61,7 +61,7 @@
 <li align='left'>[4个月前 👍：5  ⭐：1]
       <a href="https://juejin.cn/post/7352450333911662601" target="_blank">HarmonyOS ：自定义组件 @BuilderParam 中 this 作用域填坑小记</a>
       </li>
-<li align='left'>[4个月前 👍：36  ⭐：48]
+<li align='left'>[4个月前 👍：37  ⭐：48]
       <a href="https://juejin.cn/post/7347851786164437002" target="_blank">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a>
       </li>
 <li align='left'>[5个月前 👍：32  ⭐：79]
