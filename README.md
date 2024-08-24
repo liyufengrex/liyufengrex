@@ -37,7 +37,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[18天前 👍：4  ⭐：12]
+<li align='left'>[19天前 👍：4  ⭐：12]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：8]
