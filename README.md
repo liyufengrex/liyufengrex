@@ -37,7 +37,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[1个月前 👍：7  ⭐：21]
+<li align='left'>[1个月前 👍：7  ⭐：22]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[1个月前 👍：5  ⭐：8]
@@ -49,10 +49,10 @@
 <li align='left'>[3个月前 👍：6  ⭐：17]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
-<li align='left'>[3个月前 👍：6  ⭐：11]
+<li align='left'>[3个月前 👍：6  ⭐：12]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">探索HarmonyOS：一键掌握Router与NavPathStatck的传参和页面回调技巧</a>
       </li>
-<li align='left'>[5个月前 👍：21  ⭐：24]
+<li align='left'>[5个月前 👍：21  ⭐：25]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
 <li align='left'>[5个月前 👍：14  ⭐：25]
