@@ -108,3 +108,10 @@ Dart：空安全 JSON 解析工具，（可有效处理 json_serializable 解析
 基于 HarmonyOS NEXT 开发,面相对象式网络请求框架,支持将https请求返回的数据直接转换成指定类型的对象
 
 >链接： [ohpm](https://ohpm.openharmony.cn/#/cn/detail/@rex%2Ffast_https_request)、[github](https://github.com/liyufengrex/fast_http_request) 、[document](https://juejin.cn/post/7347851786164437002)
+
+## 鸿蒙系统路由表自动生成插件
+#### `route_mapping_plugin `
+
+基于TS开发的构建任务，通过 注解 + 构建任务 自动生成系统路由注册表
+
+>链接： [npm](https://www.npmjs.com/package/route_mapping_plugin)、[github](https://github.com/liyufengrex/route_mapping_plugin) 
