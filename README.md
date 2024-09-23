@@ -48,7 +48,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[1个月前 👍：12  ⭐：27]
+<li align='left'>[1个月前 👍：13  ⭐：27]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[2个月前 👍：5  ⭐：9]
@@ -63,7 +63,7 @@
 <li align='left'>[4个月前 👍：7  ⭐：13]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">探索HarmonyOS：一键掌握Router与NavPathStatck的传参和页面回调技巧</a>
       </li>
-<li align='left'>[5个月前 👍：21  ⭐：26]
+<li align='left'>[5个月前 👍：22  ⭐：26]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
 <li align='left'>[5个月前 👍：14  ⭐：27]
@@ -75,7 +75,7 @@
 <li align='left'>[6个月前 👍：48  ⭐：56]
       <a href="https://juejin.cn/post/7347851786164437002" target="_blank">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a>
       </li>
-<li align='left'>[6个月前 👍：38  ⭐：89]
+<li align='left'>[6个月前 👍：38  ⭐：90]
       <a href="https://juejin.cn/post/7344258231479369769" target="_blank">HarmonyOS ：去繁化简，实战整理的开发者清单【NEXT版本】</a>
       </li>
 </ul>
