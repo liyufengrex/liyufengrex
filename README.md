@@ -48,7 +48,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[1个月前 👍：13  ⭐：27]
+<li align='left'>[1个月前 👍：13  ⭐：28]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[2个月前 👍：5  ⭐：9]
@@ -75,7 +75,7 @@
 <li align='left'>[6个月前 👍：48  ⭐：56]
       <a href="https://juejin.cn/post/7347851786164437002" target="_blank">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a>
       </li>
-<li align='left'>[6个月前 👍：38  ⭐：90]
+<li align='left'>[6个月前 👍：38  ⭐：91]
       <a href="https://juejin.cn/post/7344258231479369769" target="_blank">HarmonyOS ：去繁化简，实战整理的开发者清单【NEXT版本】</a>
       </li>
 </ul>
