@@ -48,7 +48,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[1个月前 👍：13  ⭐：28]
+<li align='left'>[1个月前 👍：14  ⭐：28]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[2个月前 👍：5  ⭐：9]
@@ -60,16 +60,16 @@
 <li align='left'>[4个月前 👍：6  ⭐：17]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
-<li align='left'>[4个月前 👍：7  ⭐：13]
+<li align='left'>[4个月前 👍：8  ⭐：14]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">探索HarmonyOS：一键掌握Router与NavPathStatck的传参和页面回调技巧</a>
       </li>
-<li align='left'>[5个月前 👍：23  ⭐：26]
+<li align='left'>[6个月前 👍：23  ⭐：27]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
-<li align='left'>[5个月前 👍：14  ⭐：27]
+<li align='left'>[6个月前 👍：14  ⭐：27]
       <a href="https://juejin.cn/post/7352075796712964122" target="_blank">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a>
       </li>
-<li align='left'>[5个月前 👍：5  ⭐：2]
+<li align='left'>[6个月前 👍：5  ⭐：2]
       <a href="https://juejin.cn/post/7352450333911662601" target="_blank">HarmonyOS ：自定义组件 @BuilderParam 中 this 作用域填坑小记</a>
       </li>
 <li align='left'>[6个月前 👍：48  ⭐：57]
