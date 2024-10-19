@@ -48,7 +48,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[2个月前 👍：18  ⭐：31]
+<li align='left'>[2个月前 👍：18  ⭐：32]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[3个月前 👍：5  ⭐：10]
@@ -66,7 +66,7 @@
 <li align='left'>[6个月前 👍：24  ⭐：30]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
-<li align='left'>[6个月前 👍：14  ⭐：27]
+<li align='left'>[6个月前 👍：15  ⭐：27]
       <a href="https://juejin.cn/post/7352075796712964122" target="_blank">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a>
       </li>
 <li align='left'>[6个月前 👍：5  ⭐：2]
