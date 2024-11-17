@@ -51,7 +51,7 @@
 <li align='left'>[3个月前 👍：22  ⭐：44]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
-<li align='left'>[4个月前 👍：6  ⭐：11]
+<li align='left'>[4个月前 👍：6  ⭐：12]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[5个月前 👍：6  ⭐：10]
