@@ -49,16 +49,19 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
+<li align='left'>[11小时前 👍：1  ⭐：0]
+      <a href="https://juejin.cn/post/7439632499335004198" target="_blank">Cashier 社区：一站式POS跨平台功能方案收录</a>
+      </li>
 <li align='left'>[3个月前 👍：24  ⭐：44]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
-<li align='left'>[4个月前 👍：6  ⭐：12]
+<li align='left'>[4个月前 👍：6  ⭐：13]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[5个月前 👍：6  ⭐：10]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS UI动态化：探索自定义组件的创建与实时更新技术</a>
       </li>
-<li align='left'>[5个月前 👍：17  ⭐：41]
+<li align='left'>[5个月前 👍：18  ⭐：42]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
 <li align='left'>[6个月前 👍：9  ⭐：16]
@@ -67,7 +70,7 @@
 <li align='left'>[7个月前 👍：24  ⭐：33]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
-<li align='left'>[7个月前 👍：18  ⭐：29]
+<li align='left'>[7个月前 👍：18  ⭐：30]
       <a href="https://juejin.cn/post/7352075796712964122" target="_blank">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a>
       </li>
 <li align='left'>[7个月前 👍：5  ⭐：2]
@@ -75,9 +78,6 @@
       </li>
 <li align='left'>[8个月前 👍：58  ⭐：68]
       <a href="https://juejin.cn/post/7347851786164437002" target="_blank">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a>
-      </li>
-<li align='left'>[8个月前 👍：43  ⭐：102]
-      <a href="https://juejin.cn/post/7344258231479369769" target="_blank">HarmonyOS ：去繁化简，实战整理的开发者清单【NEXT版本】</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
