@@ -9,6 +9,11 @@
 - `『 OpenHarmony 三方库贡献者 』`、`『 pub.dev 三方库维护者 』`
 - `收录POS相关跨平台方案`：https://gitcode.com/cashier
 
+</br>
+<a href="https://gitcode.com/cashier">
+    <img align="center" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
+</a>
+</br>
 
 #### 热门解决方案 [🪐✨](https://juejin.cn/column/7304820397404536870)
 <!-- BLOG-POST-LIST:START -->
