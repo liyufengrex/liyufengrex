@@ -54,7 +54,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[2天前 👍：4  ⭐：2]
+<li align='left'>[3天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">Cashier 社区：一站式POS跨平台功能方案收录</a>
       </li>
 <li align='left'>[3个月前 👍：24  ⭐：45]
@@ -66,13 +66,13 @@
 <li align='left'>[5个月前 👍：6  ⭐：10]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS UI动态化：探索自定义组件的创建与实时更新技术</a>
       </li>
-<li align='left'>[6个月前 👍：18  ⭐：43]
+<li align='left'>[6个月前 👍：18  ⭐：45]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
 <li align='left'>[6个月前 👍：9  ⭐：16]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">探索HarmonyOS：一键掌握Router与NavPathStatck的传参和页面回调技巧</a>
       </li>
-<li align='left'>[7个月前 👍：24  ⭐：33]
+<li align='left'>[7个月前 👍：24  ⭐：34]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
 <li align='left'>[7个月前 👍：18  ⭐：30]
