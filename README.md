@@ -54,7 +54,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[3天前 👍：4  ⭐：4]
+<li align='left'>[4天前 👍：5  ⭐：5]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">Cashier 社区：一站式POS跨平台功能方案收录</a>
       </li>
 <li align='left'>[3个月前 👍：24  ⭐：45]
