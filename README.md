@@ -54,35 +54,35 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[4天前 👍：5  ⭐：5]
-      <a href="https://juejin.cn/post/7439632499335004198" target="_blank">Cashier 社区：一站式POS跨平台功能方案收录</a>
+<li align='left'>[1天前 👍：2  ⭐：1]
+      <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
-<li align='left'>[3个月前 👍：24  ⭐：45]
+<li align='left'>[7天前 👍：5  ⭐：5]
+      <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
+      </li>
+<li align='left'>[3个月前 👍：24  ⭐：46]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
-<li align='left'>[4个月前 👍：6  ⭐：13]
+<li align='left'>[4个月前 👍：6  ⭐：14]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[5个月前 👍：6  ⭐：10]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS UI动态化：探索自定义组件的创建与实时更新技术</a>
       </li>
-<li align='left'>[6个月前 👍：18  ⭐：45]
+<li align='left'>[6个月前 👍：19  ⭐：45]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
 <li align='left'>[6个月前 👍：9  ⭐：16]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">探索HarmonyOS：一键掌握Router与NavPathStatck的传参和页面回调技巧</a>
       </li>
-<li align='left'>[7个月前 👍：24  ⭐：34]
+<li align='left'>[8个月前 👍：24  ⭐：35]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
-<li align='left'>[7个月前 👍：18  ⭐：30]
+<li align='left'>[8个月前 👍：18  ⭐：30]
       <a href="https://juejin.cn/post/7352075796712964122" target="_blank">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a>
       </li>
-<li align='left'>[7个月前 👍：5  ⭐：2]
+<li align='left'>[8个月前 👍：5  ⭐：2]
       <a href="https://juejin.cn/post/7352450333911662601" target="_blank">HarmonyOS ：自定义组件 @BuilderParam 中 this 作用域填坑小记</a>
-      </li>
-<li align='left'>[8个月前 👍：58  ⭐：69]
-      <a href="https://juejin.cn/post/7347851786164437002" target="_blank">HarmonyOS ：面向对象式网络请求库，我发布的第一个鸿蒙三方库</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
