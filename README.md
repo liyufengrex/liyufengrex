@@ -54,13 +54,13 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[1天前 👍：2  ⭐：1]
+<li align='left'>[2天前 👍：2  ⭐：1]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
-<li align='left'>[7天前 👍：5  ⭐：5]
+<li align='left'>[8天前 👍：6  ⭐：6]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
-<li align='left'>[3个月前 👍：24  ⭐：46]
+<li align='left'>[3个月前 👍：25  ⭐：46]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[4个月前 👍：6  ⭐：14]
