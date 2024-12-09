@@ -54,19 +54,19 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[11天前 👍：3  ⭐：3]
+<li align='left'>[12天前 👍：3  ⭐：3]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
-<li align='left'>[17天前 👍：8  ⭐：11]
+<li align='left'>[18天前 👍：9  ⭐：12]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
-<li align='left'>[4个月前 👍：25  ⭐：48]
+<li align='left'>[4个月前 👍：26  ⭐：48]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[4个月前 👍：6  ⭐：14]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
-<li align='left'>[5个月前 👍：6  ⭐：11]
+<li align='left'>[6个月前 👍：6  ⭐：11]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS UI动态化：探索自定义组件的创建与实时更新技术</a>
       </li>
 <li align='left'>[6个月前 👍：19  ⭐：46]
