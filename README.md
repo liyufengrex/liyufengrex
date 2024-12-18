@@ -54,7 +54,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[20天前 👍：3  ⭐：3]
+<li align='left'>[0小时前 👍：2  ⭐：0]
+      <a href="https://juejin.cn/post/7449408933905137691" target="_blank">从入门实践到成为华为开发者专家（HDE），给初学者的学习建议</a>
+      </li>
+<li align='left'>[21天前 👍：3  ⭐：3]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
 <li align='left'>[26天前 👍：10  ⭐：13]
@@ -78,11 +81,8 @@
 <li align='left'>[8个月前 👍：24  ⭐：36]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
-<li align='left'>[8个月前 👍：18  ⭐：31]
+<li align='left'>[8个月前 👍：18  ⭐：32]
       <a href="https://juejin.cn/post/7352075796712964122" target="_blank">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a>
-      </li>
-<li align='left'>[8个月前 👍：5  ⭐：2]
-      <a href="https://juejin.cn/post/7352450333911662601" target="_blank">HarmonyOS ：自定义组件 @BuilderParam 中 this 作用域填坑小记</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
