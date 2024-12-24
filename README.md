@@ -54,10 +54,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[5天前 👍：3  ⭐：2]
+<li align='left'>[6天前 👍：3  ⭐：2]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">从入门实践到成为华为开发者专家（HDE），给初学者的学习建议</a>
       </li>
-<li align='left'>[26天前 👍：3  ⭐：4]
+<li align='left'>[27天前 👍：3  ⭐：4]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
 <li align='left'>[1个月前 👍：10  ⭐：16]
@@ -81,7 +81,7 @@
 <li align='left'>[8个月前 👍：24  ⭐：37]
       <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
-<li align='left'>[8个月前 👍：18  ⭐：32]
+<li align='left'>[8个月前 👍：18  ⭐：33]
       <a href="https://juejin.cn/post/7352075796712964122" target="_blank">HarmonyOS ：基于 emitter 封装了一个便捷的 EventBus 事件通知</a>
       </li>
 </ul>
