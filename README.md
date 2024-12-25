@@ -54,10 +54,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[6天前 👍：3  ⭐：2]
+<li align='left'>[7天前 👍：3  ⭐：2]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">从入门实践到成为华为开发者专家（HDE），给初学者的学习建议</a>
       </li>
-<li align='left'>[27天前 👍：3  ⭐：4]
+<li align='left'>[28天前 👍：3  ⭐：4]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
 <li align='left'>[1个月前 👍：10  ⭐：16]
