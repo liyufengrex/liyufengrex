@@ -54,7 +54,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[11天前 👍：3  ⭐：2]
+<li align='left'>[12天前 👍：3  ⭐：2]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">从入门实践到成为华为开发者专家（HDE），给初学者的学习建议</a>
       </li>
 <li align='left'>[1个月前 👍：3  ⭐：4]
@@ -72,7 +72,7 @@
 <li align='left'>[6个月前 👍：6  ⭐：11]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS UI动态化：探索自定义组件的创建与实时更新技术</a>
       </li>
-<li align='left'>[7个月前 👍：21  ⭐：48]
+<li align='left'>[7个月前 👍：22  ⭐：49]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
 <li align='left'>[7个月前 👍：10  ⭐：16]
