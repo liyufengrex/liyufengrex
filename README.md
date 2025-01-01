@@ -54,7 +54,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[13天前 👍：3  ⭐：2]
+<li align='left'>[14天前 👍：3  ⭐：2]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">关于我获得了「华为开发者专家HDE」认证</a>
       </li>
 <li align='left'>[1个月前 👍：3  ⭐：4]
@@ -63,7 +63,7 @@
 <li align='left'>[1个月前 👍：10  ⭐：16]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
-<li align='left'>[4个月前 👍：30  ⭐：49]
+<li align='left'>[4个月前 👍：31  ⭐：49]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[5个月前 👍：8  ⭐：15]
