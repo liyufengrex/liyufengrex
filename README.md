@@ -54,7 +54,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[14天前 👍：3  ⭐：2]
+<li align='left'>[15天前 👍：3  ⭐：3]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">关于我获得了「华为开发者专家HDE」认证</a>
       </li>
 <li align='left'>[1个月前 👍：3  ⭐：4]
@@ -63,10 +63,10 @@
 <li align='left'>[1个月前 👍：10  ⭐：16]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
-<li align='left'>[4个月前 👍：31  ⭐：49]
+<li align='left'>[5个月前 👍：31  ⭐：49]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
-<li align='left'>[5个月前 👍：8  ⭐：15]
+<li align='left'>[5个月前 👍：8  ⭐：16]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[6个月前 👍：6  ⭐：11]
@@ -75,7 +75,7 @@
 <li align='left'>[7个月前 👍：22  ⭐：49]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
-<li align='left'>[7个月前 👍：10  ⭐：16]
+<li align='left'>[7个月前 👍：10  ⭐：17]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">探索HarmonyOS：一键掌握Router与NavPathStatck的传参和页面回调技巧</a>
       </li>
 <li align='left'>[9个月前 👍：24  ⭐：37]
