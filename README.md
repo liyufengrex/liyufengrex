@@ -54,13 +54,13 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[28天前 👍：4  ⭐：3]
+<li align='left'>[29天前 👍：4  ⭐：3]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">关于我获得了「华为开发者专家HDE」认证</a>
       </li>
 <li align='left'>[1个月前 👍：3  ⭐：4]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
-<li align='left'>[1个月前 👍：11  ⭐：18]
+<li align='left'>[1个月前 👍：12  ⭐：19]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
 <li align='left'>[5个月前 👍：31  ⭐：51]
