@@ -54,7 +54,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[29天前 👍：4  ⭐：3]
+<li align='left'>[1个月前 👍：4  ⭐：3]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">关于我获得了「华为开发者专家HDE」认证</a>
       </li>
 <li align='left'>[1个月前 👍：3  ⭐：4]
@@ -63,10 +63,10 @@
 <li align='left'>[1个月前 👍：12  ⭐：19]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
-<li align='left'>[5个月前 👍：31  ⭐：51]
+<li align='left'>[5个月前 👍：32  ⭐：51]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
-<li align='left'>[6个月前 👍：10  ⭐：18]
+<li align='left'>[6个月前 👍：9  ⭐：18]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[7个月前 👍：6  ⭐：11]
