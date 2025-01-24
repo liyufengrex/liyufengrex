@@ -17,6 +17,14 @@ usb 即插款扫码枪通用方案（多平台适用方案，不会触发键盘�
 >链接： [pub.dev](https://pub.dev/packages/scan_gun)、[github](https://github.com/liyufengrex/flutter_scan_gun)、[document](https://juejin.cn/post/7186991958638723132)
 
 
+## 无障碍扫码服务
+#### `scan_gun `
+
+适用于安卓平台，基于 AccessibilityService「无障碍服务」 实现的扫码辅助功能（有效避免输入法干扰引发乱码、键盘弹起等问题）
+
+>链接： [pub.dev](https://pub.dev/packages/accessibility_scanner)、[github](https://github.com/liyufengrex/accessibility_scanner)
+
+
 ## 称重器插件
 #### `flutter_weigh_serial `
 
