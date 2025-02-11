@@ -54,7 +54,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[15小时前 👍：2  ⭐：1]
+<li align='left'>[1天前 👍：4  ⭐：1]
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：3]
@@ -66,7 +66,7 @@
 <li align='left'>[2个月前 👍：12  ⭐：21]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
-<li align='left'>[6个月前 👍：33  ⭐：52]
+<li align='left'>[6个月前 👍：34  ⭐：52]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[6个月前 👍：9  ⭐：18]
