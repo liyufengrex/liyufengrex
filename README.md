@@ -55,7 +55,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[7天前 👍：4  ⭐：1]
+<li align='left'>[0小时前 👍：1  ⭐：0]
+      <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
+      </li>
+<li align='left'>[8天前 👍：4  ⭐：1]
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
       </li>
 <li align='left'>[2个月前 👍：4  ⭐：3]
@@ -81,9 +84,6 @@
       </li>
 <li align='left'>[9个月前 👍：11  ⭐：18]
       <a href="https://juejin.cn/post/7369120920148213795" target="_blank">探索HarmonyOS：一键掌握Router与NavPathStatck的传参和页面回调技巧</a>
-      </li>
-<li align='left'>[10个月前 👍：24  ⭐：37]
-      <a href="https://juejin.cn/post/7352100456334721034" target="_blank">HarmonyOS ：自定义弹窗（CustomDialog）的解耦实践</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
