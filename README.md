@@ -55,16 +55,16 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[6天前 👍：3  ⭐：3]
+<li align='left'>[7天前 👍：3  ⭐：3]
       <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
       </li>
-<li align='left'>[14天前 👍：4  ⭐：1]
+<li align='left'>[15天前 👍：4  ⭐：1]
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
       </li>
 <li align='left'>[2个月前 👍：4  ⭐：3]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">关于我获得了「华为开发者专家HDE」认证</a>
       </li>
-<li align='left'>[2个月前 👍：3  ⭐：4]
+<li align='left'>[3个月前 👍：3  ⭐：4]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
 <li align='left'>[3个月前 👍：13  ⭐：23]
@@ -76,7 +76,7 @@
 <li align='left'>[7个月前 👍：9  ⭐：18]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
-<li align='left'>[8个月前 👍：6  ⭐：11]
+<li align='left'>[8个月前 👍：6  ⭐：12]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS UI动态化：探索自定义组件的创建与实时更新技术</a>
       </li>
 <li align='left'>[9个月前 👍：24  ⭐：54]
