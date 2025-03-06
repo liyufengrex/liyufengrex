@@ -55,10 +55,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[15天前 👍：6  ⭐：5]
+<li align='left'>[16天前 👍：6  ⭐：5]
       <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
       </li>
-<li align='left'>[23天前 👍：5  ⭐：1]
+<li align='left'>[24天前 👍：5  ⭐：1]
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
       </li>
 <li align='left'>[2个月前 👍：6  ⭐：4]
@@ -70,7 +70,7 @@
 <li align='left'>[3个月前 👍：14  ⭐：24]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
-<li align='left'>[7个月前 👍：35  ⭐：53]
+<li align='left'>[7个月前 👍：36  ⭐：53]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 <li align='left'>[7个月前 👍：10  ⭐：19]
