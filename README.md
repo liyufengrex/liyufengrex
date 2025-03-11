@@ -55,10 +55,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[20天前 👍：6  ⭐：6]
+<li align='left'>[21天前 👍：6  ⭐：8]
       <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
       </li>
-<li align='left'>[28天前 👍：5  ⭐：1]
+<li align='left'>[29天前 👍：5  ⭐：1]
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
       </li>
 <li align='left'>[2个月前 👍：6  ⭐：4]
