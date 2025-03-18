@@ -55,13 +55,13 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[27天前 👍：6  ⭐：10]
+<li align='left'>[28天前 👍：7  ⭐：11]
       <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
       </li>
 <li align='left'>[1个月前 👍：6  ⭐：2]
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
       </li>
-<li align='left'>[2个月前 👍：6  ⭐：4]
+<li align='left'>[3个月前 👍：6  ⭐：4]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">关于我获得了「华为开发者专家HDE」认证</a>
       </li>
 <li align='left'>[3个月前 👍：5  ⭐：4]
