@@ -67,7 +67,7 @@
 <li align='left'>[6个月前 👍：5  ⭐：4]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
-<li align='left'>[6个月前 👍：15  ⭐：26]
+<li align='left'>[7个月前 👍：15  ⭐：26]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
 <li align='left'>[10个月前 👍：39  ⭐：55]
