@@ -55,7 +55,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[4个月前 👍：14  ⭐：18]
+<li align='left'>[4个月前 👍：14  ⭐：19]
       <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
       </li>
 <li align='left'>[5个月前 👍：7  ⭐：3]
@@ -73,7 +73,7 @@
 <li align='left'>[11个月前 👍：39  ⭐：56]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
-<li align='left'>[12个月前 👍：10  ⭐：20]
+<li align='left'>[1年前 👍：10  ⭐：20]
       <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 <li align='left'>[1年前 👍：6  ⭐：11]
