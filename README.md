@@ -24,21 +24,8 @@
 - [flutter：打印模版动态化方案](https://juejin.cn/spost/7301242165278769179)
 <!-- BLOG-POST-LIST:END -->
 
-</br>
-
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image](https://img.shields.io/badge/HarmonyOS-3DDC84?style=for-the-badge&logo=harmonyOS&logoColor=white) ![image](https://img.shields.io/badge/ArkTS-0175C2?style=for-the-badge&logo=ArkTS&logoColor=white) ![image](https://img.shields.io/badge/李小轰-rex-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<table align="center">
-  <tr>
-    <td align="center" width="40%" valign="top">
-      <div><b><em><spam>Statistics</spam></em></b></div>
-              <br/>  
-      <!--    由工作流定时生成     -->
-      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
-      <img src="https://github-readme-stats.vercel.app/api?username=liyufengrex&hide_border=true&show_icons=true&theme=vue-light"/>
-    </td>
-  </tr>
-</table>
 
 #### 以下是我的开源项目总览 
 ✨ 热爱技术分享与开源，OpenHarmony 、Pub.dev 活跃贡献者，已发布超过 **10** 个高质量三方库，[《开源库目录大纲》](project.md)。
@@ -91,52 +78,6 @@
   </td>
   </tr>
 </br>
-</table>
-
-#### ❤️ Flutter TOP Repositories 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/liyufengrex/flutter_subscreen_plugin">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_subscreen_plugin&theme=vue-light&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/liyufengrex/flutter_scan_gun">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_scan_gun&theme=vue-light&hide_border=true&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/liyufengrex/flutter_printer_plus">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=flutter_printer_plus&theme=vue-light&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/liyufengrex/print_image_generate_tool">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=print_image_generate_tool&theme=vue-light&hide_border=true&show_owner=false" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-#### 🏅📝 HarmonyOS Repositories
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/liyufengrex/HarmonyAtomicService">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=HarmonyAtomicService&theme=vue-light&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/liyufengrex/fast_http_request">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liyufengrex&repo=fast_http_request&theme=vue-light&hide_border=true" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <br/>
