@@ -49,7 +49,7 @@
 <li align='left'>[10个月前 👍：7  ⭐：4]
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
       </li>
-<li align='left'>[12个月前 👍：6  ⭐：4]
+<li align='left'>[1年前 👍：6  ⭐：4]
       <a href="https://juejin.cn/post/7449408933905137691" target="_blank">关于我获得了「华为开发者专家HDE」认证</a>
       </li>
 <li align='left'>[1年前 👍：5  ⭐：5]
