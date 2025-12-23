@@ -43,6 +43,9 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
+<li align='left'>[15小时前 👍：2  ⭐：3]
+      <a href="https://juejin.cn/post/7586686861390757939" target="_blank">纯算法AEC：播录并行场景的回声消除实战笔记</a>
+      </li>
 <li align='left'>[10个月前 👍：17  ⭐：28]
       <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
       </li>
@@ -69,9 +72,6 @@
       </li>
 <li align='left'>[1年前 👍：25  ⭐：61]
       <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
-      </li>
-<li align='left'>[1年前 👍：12  ⭐：20]
-      <a href="https://juejin.cn/post/7369120920148213795" target="_blank">探索HarmonyOS：一键掌握Router与NavPathStatck的传参和页面回调技巧</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
