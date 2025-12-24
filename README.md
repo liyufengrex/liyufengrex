@@ -43,10 +43,13 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[15小时前 👍：2  ⭐：3]
+<li align='left'>[13小时前 👍：2  ⭐：4]
+      <a href="https://juejin.cn/post/7587254134400270345" target="_blank">把手机变成听诊器！摄像头 30 秒隔空测心率 - 开箱即用</a>
+      </li>
+<li align='left'>[1天前 👍：4  ⭐：6]
       <a href="https://juejin.cn/post/7586686861390757939" target="_blank">纯算法AEC：播录并行场景的回声消除实战笔记</a>
       </li>
-<li align='left'>[10个月前 👍：17  ⭐：28]
+<li align='left'>[10个月前 👍：17  ⭐：29]
       <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
       </li>
 <li align='left'>[10个月前 👍：7  ⭐：4]
@@ -69,9 +72,6 @@
       </li>
 <li align='left'>[1年前 👍：6  ⭐：11]
       <a href="https://juejin.cn/post/7379423024556064803" target="_blank">HarmonyOS UI动态化：探索自定义组件的创建与实时更新技术</a>
-      </li>
-<li align='left'>[1年前 👍：25  ⭐：61]
-      <a href="https://juejin.cn/post/7373194499530244136" target="_blank">HarmonyOS ：扩展修饰器，实现节流、防抖、权限申请</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
