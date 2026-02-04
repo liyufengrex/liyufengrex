@@ -43,7 +43,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[1个月前 👍：36  ⭐：37]
+<li align='left'>[1个月前 👍：37  ⭐：38]
       <a href="https://juejin.cn/post/7587254134400270345" target="_blank">把手机变成听诊器！摄像头 30 秒隔空测心率 - 开箱即用</a>
       </li>
 <li align='left'>[1个月前 👍：8  ⭐：12]
