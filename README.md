@@ -43,7 +43,7 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[1天前 👍：1  ⭐：0]
+<li align='left'>[2天前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7616340145881792550" target="_blank">最神奇的教育：用屏幕带孩子离开屏幕 # AI赋能</a>
       </li>
 <li align='left'>[2个月前 👍：41  ⭐：46]
