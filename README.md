@@ -43,7 +43,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[5天前 👍：2  ⭐：0]
+<li align='left'>[13小时前 👍：2  ⭐：0]
+      <a href="https://juejin.cn/post/7618601991490306099" target="_blank">【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办</a>
+      </li>
+<li align='left'>[6天前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7616340145881792550" target="_blank">最神奇的教育：用屏幕带孩子离开屏幕 # AI赋能</a>
       </li>
 <li align='left'>[2个月前 👍：42  ⭐：47]
@@ -69,9 +72,6 @@
       </li>
 <li align='left'>[1年前 👍：39  ⭐：55]
       <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
-      </li>
-<li align='left'>[1年前 👍：11  ⭐：21]
-      <a href="https://juejin.cn/post/7392252402496389172" target="_blank">HarmonyOS ：适配折叠屏展开与收起，实现单屏与双屏UI的无缝切换</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
