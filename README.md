@@ -5,7 +5,6 @@
 #### 关于我
 
 - 🔭 简介: 全栈开发，精通 `Android`、`Flutter`、`HarmonyOS`、`小程序开发` 等，喜欢尝试各种新玩意儿。
-- 💬 博客: [「主页链接」](https://juejin.cn/user/3157453124930039)，[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3157453124930039&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3157453124930039) 不定期更文，欢迎交流讨论😎。    [「鸿蒙 NEXT 开发专栏」](https://juejin.cn/column/7344258220389335094)、[「Flutter 开发专栏」](https://juejin.cn/column/7039538334820990983)
 - ⚡ `『 华为开发者专家(HDE) 』`、`『 OpenHarmony 三方库贡献者 』`、`『 pub.dev 三方库维护者 』`
 
 
@@ -34,7 +33,8 @@
 
 - 💡 涉猎：`电商App`、`VR应用`、`智慧城市`、`AI大模型`、`餐饮零售`、`收银POS、自动摇茶机（数字化）`、`鸿蒙纯血` 等。
 - 🚀 开源库：`副屏双引擎插件`、`扫码枪跨平台插件`、`小票标签跨平台插件`、`称重插件`、`flutter 动态化` 等。
-- `收录POS相关跨平台方案`：https://gitcode.com/cashier
+- 💬`收录POS相关跨平台方案`：https://gitcode.com/cashier
+- 💬 博客: [「主页链接」](https://juejin.cn/user/3157453124930039)，[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3157453124930039&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3157453124930039) 不定期更文，欢迎交流讨论😎。    [「鸿蒙 NEXT 开发专栏」](https://juejin.cn/column/7344258220389335094)、[「Flutter 开发专栏」](https://juejin.cn/column/7039538334820990983)
 
 <!-- 最近更新 -->
 <table width="1280px">
