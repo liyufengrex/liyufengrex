@@ -85,7 +85,7 @@
 
 </br>
 
-<img src="https://github.com/user-attachments/assets/bdb3d605-414f-4b43-bcbd-d28dc48974ce" alt="演示截图">
+<img width="1706" height="1279" alt="4f4cdce563488571476783a8c20d5bee" src="https://github.com/user-attachments/assets/f5a51e48-0db5-4232-b341-3b58f98d135f" />
 
 <br/>
 <!-- 贪吃蛇, 由工作流定时生成 -->
