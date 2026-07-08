@@ -54,7 +54,7 @@
 <li align='left'>[6个月前 👍：49  ⭐：65]
       <a href="https://juejin.cn/post/7587254134400270345" target="_blank">把手机变成听诊器！摄像头 30 秒隔空测心率 - 开箱即用</a>
       </li>
-<li align='left'>[6个月前 👍：12  ⭐：16]
+<li align='left'>[6个月前 👍：12  ⭐：17]
       <a href="https://juejin.cn/post/7586686861390757939" target="_blank">纯算法AEC：播录并行场景的回声消除实战笔记</a>
       </li>
 <li align='left'>[1年前 👍：19  ⭐：30]
@@ -64,7 +64,7 @@
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
       </li>
 <li align='left'>[1年前 👍：6  ⭐：4]
-      <a href="https://juejin.cn/post/7449408933905137691" target="_blank">关于我获得了「华为开发者专家HDE」认证</a>
+      <a href="https://juejin.cn/post/7449408933905137691" target="_blank">李宇峰｜全栈开发成长之路：从入门实践到华为开发者专家（HDE），初学者学习指南</a>
       </li>
 <li align='left'>[1年前 👍：5  ⭐：5]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
