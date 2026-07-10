@@ -3,7 +3,7 @@
 </br>
 
 #### 关于我
-
+- 🔭 `Li Yufeng（李宇峰）｜HDE‑Huawei Developer Expert, OpenHarmony Contributor`
 - 🔭 全栈：精通 `Android`、`Flutter`、`HarmonyOS`、`小程序开发` 等，喜欢尝试各种新玩意儿。
 - ⚡ `『 华为开发者专家(HDE) 』`、`『 OpenHarmony 三方库贡献者 』`、`『 pub.dev 三方库维护者 』`
 
