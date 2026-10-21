@@ -45,13 +45,16 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
+<li align='left'>[17小时前 👍：1  ⭐：0]
+      <a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
+      </li>
 <li align='left'>[7个月前 👍：6  ⭐：6]
       <a href="https://juejin.cn/post/7618601991490306099" target="_blank">【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办</a>
       </li>
 <li align='left'>[7个月前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7616340145881792550" target="_blank">AI 能做些什么？我给闺女做的第一个AI游戏</a>
       </li>
-<li align='left'>[9个月前 👍：49  ⭐：65]
+<li align='left'>[10个月前 👍：49  ⭐：65]
       <a href="https://juejin.cn/post/7587254134400270345" target="_blank">把手机变成听诊器！摄像头 30 秒隔空测心率 - 开箱即用</a>
       </li>
 <li align='left'>[10个月前 👍：12  ⭐：17]
@@ -71,9 +74,6 @@
       </li>
 <li align='left'>[1年前 👍：17  ⭐：33]
       <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
-      </li>
-<li align='left'>[2年前 👍：39  ⭐：55]
-      <a href="https://juejin.cn/post/7399478677396881443" target="_blank">HarmonyOS ：ArkUI `动态组件` 与`组件工厂` 的最佳封装策略</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
