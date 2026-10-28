@@ -11,7 +11,7 @@
 ### 热门解决方案 [🪐](https://juejin.cn/column/7304820397404536870)
 
 <a href="https://gitcode.com/cashier">
-    <img align="right" width="470" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
+    <img align="right" width="420" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
 </a>
 
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +25,7 @@
 
 ### 我的开源项目 [《开源库目录》](project.md)
 
-<img align="right" width="260" alt="4f4cdce563488571476783a8c20d5bee" src="https://github.com/user-attachments/assets/f5a51e48-0db5-4232-b341-3b58f98d135f" />
+<img align="right" width="220" alt="4f4cdce563488571476783a8c20d5bee" src="https://github.com/user-attachments/assets/f5a51e48-0db5-4232-b341-3b58f98d135f" />
 
 ✨ 热爱技术分享与开源，OpenHarmony 、Pub.dev 活跃贡献者，已发布10余个高质量三方库。
 </br>
@@ -105,14 +105,3 @@
 <!-- rex-platform-posts end -->
 </br>
 
-<br/>
-<!-- 贪吃蛇, 由工作流定时生成 -->
-<!-- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
--->
-
-<br/>
