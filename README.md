@@ -44,39 +44,76 @@
       <br/>  
       <!--    由工作流定时生成     -->
       <!-- rex-platform-posts start -->
-  <ul>
-<li align='left'>[17小时前 👍：1  ⭐：0]
-      <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
-      </li>
-<li align='left'>[7天前 👍：2  ⭐：0]
-      <a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
-      </li>
-<li align='left'>[7个月前 👍：6  ⭐：6]
-      <a href="https://juejin.cn/post/7618601991490306099" target="_blank">【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办</a>
-      </li>
-<li align='left'>[7个月前 👍：2  ⭐：0]
-      <a href="https://juejin.cn/post/7616340145881792550" target="_blank">AI 能做些什么？我给闺女做的第一个AI游戏</a>
-      </li>
-<li align='left'>[10个月前 👍：49  ⭐：65]
-      <a href="https://juejin.cn/post/7587254134400270345" target="_blank">把手机变成听诊器！摄像头 30 秒隔空测心率 - 开箱即用</a>
-      </li>
-<li align='left'>[10个月前 👍：12  ⭐：17]
-      <a href="https://juejin.cn/post/7586686861390757939" target="_blank">纯算法AEC：播录并行场景的回声消除实战笔记</a>
-      </li>
-<li align='left'>[1年前 👍：19  ⭐：30]
-      <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
-      </li>
-<li align='left'>[1年前 👍：7  ⭐：5]
-      <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
-      </li>
-<li align='left'>[1年前 👍：6  ⭐：4]
-      <a href="https://juejin.cn/post/7449408933905137691" target="_blank">李宇峰｜全栈开发成长之路：从入门实践到华为开发者专家（HDE），初学者学习指南</a>
-      </li>
-<li align='left'>[1年前 👍：5  ⭐：5]
+<table align="center">
+  <tr>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7701250324648263699" target="_blank"><img src="assets/rex-platform-posts/juejin/28d9cc41944fafde.png" width="180" height="101" alt="用一个小项目，学会开发 MCP"></a><br>
+<a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
+      <br>
+      22小时前
+    </td>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7698620704770392127" target="_blank"><img src="assets/rex-platform-posts/juejin/13f6c9dcf333f0b8.png" width="180" height="101" alt="项目要介绍片的话，可以试试这个 Skill"></a><br>
+<a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
+      <br>
+      8天前
+    </td>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7618601991490306099" target="_blank"><img src="assets/rex-platform-posts/juejin/7bb5a86d8340a3d6.png" width="180" height="101" alt="【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办"></a><br>
+<a href="https://juejin.cn/post/7618601991490306099" target="_blank">【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办</a>
+      <br>
+      7个月前
+    </td>
+  </tr>
+  <tr>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7616340145881792550" target="_blank"><img src="assets/rex-platform-posts/juejin/f540d479dfd2f150.png" width="180" height="101" alt="AI 能做些什么？我给闺女做的第一个AI游戏"></a><br>
+<a href="https://juejin.cn/post/7616340145881792550" target="_blank">AI 能做些什么？我给闺女做的第一个AI游戏</a>
+      <br>
+      7个月前
+    </td>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7587254134400270345" target="_blank"><img src="assets/rex-platform-posts/juejin/a41302d12c75ea15.png" width="180" height="101" alt="把手机变成听诊器！摄像头 30 秒隔空测心率 - 开箱即用"></a><br>
+<a href="https://juejin.cn/post/7587254134400270345" target="_blank">把手机变成听诊器！摄像头 30 秒隔空测心率 - 开箱即用</a>
+      <br>
+      10个月前
+    </td>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7586686861390757939" target="_blank"><img src="assets/rex-platform-posts/juejin/aa82913f8e594285.png" width="180" height="101" alt="纯算法AEC：播录并行场景的回声消除实战笔记"></a><br>
+<a href="https://juejin.cn/post/7586686861390757939" target="_blank">纯算法AEC：播录并行场景的回声消除实战笔记</a>
+      <br>
+      10个月前
+    </td>
+  </tr>
+  <tr>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7472593190920912934" target="_blank"><img src="assets/rex-platform-posts/juejin/01b2b8ff3ee1f532.png" width="180" height="101" alt="现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能"></a><br>
+<a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
+      <br>
+      1年前
+    </td>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7469591708692332570" target="_blank"><img src="assets/rex-platform-posts/juejin/ab1bfcae744327f6.png" width="180" height="101" alt="HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用"></a><br>
+<a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
+      <br>
+      1年前
+    </td>
+<td width="180" valign="top">
+      <a href="https://juejin.cn/post/7449408933905137691" target="_blank"><img src="assets/rex-platform-posts/juejin/849f97a210fbb6d6.png" width="180" height="101" alt="李宇峰｜全栈开发成长之路：从入门实践到华为开发者专家（HDE），初学者学习指南"></a><br>
+<a href="https://juejin.cn/post/7449408933905137691" target="_blank">李宇峰｜全栈开发成长之路：从入门实践到华为开发者专家（HDE），初学者学习指南</a>
+      <br>
+      1年前
+    </td>
+  </tr>
+  <tr>
+<td width="180" valign="top">
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
-      </li>
-</ul>
-    <!-- rex-platform-posts end -->
+      <br>
+      1年前
+    </td>
+  </tr>
+</table>
+<!-- rex-platform-posts end -->
    <br/>  
   </td>
   </tr>
