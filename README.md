@@ -43,7 +43,7 @@
       <div align="center"><b><em><spam> Article（最近更文）</spam></em></b></div>
       <br/>  
       <!--    由工作流定时生成     -->
-      <!-- multi-platform-posts start -->
+      <!-- rex-platform-posts start -->
   <ul>
 <li align='left'>[17小时前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
@@ -76,7 +76,7 @@
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
       </li>
 </ul>
-    <!-- multi-platform-posts end -->
+    <!-- rex-platform-posts end -->
    <br/>  
   </td>
   </tr>
