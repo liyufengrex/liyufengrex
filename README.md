@@ -1,44 +1,43 @@
 ## Hey，我是李小轰 🔅 
-
 </br>
 
-#### 关于我
+### 关于我 
 - 🔭 `Li Yufeng（李宇峰）｜HDE‑Huawei Developer Expert, OpenHarmony Contributor`
 - 🔭 全栈：精通 `Android`、`Flutter`、`HarmonyOS`、`小程序开发` 等，喜欢尝试各种新玩意儿。
 - ⚡ `『 华为开发者专家(HDE) 』`、`『 OpenHarmony 三方库贡献者 』`、`『 pub.dev 三方库维护者 』`
-
-
+- ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image](https://img.shields.io/badge/HarmonyOS-3DDC84?style=for-the-badge&logo=harmonyOS&logoColor=white)
 </br>
+
+### 热门解决方案 [🪐](https://juejin.cn/column/7304820397404536870)
+
 <a href="https://gitcode.com/cashier">
-    <img width="681" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
+    <img align="right" width="470" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
 </a>
-</br>
 
-#### 热门解决方案 [🪐✨](https://juejin.cn/column/7304820397404536870)
 <!-- BLOG-POST-LIST:START -->
-- [flutter：双屏插件（客显屏应用场景）](https://juejin.cn/post/7007678468020240414)
-- [flutter：小票标签打印（使用widget开发票据样式的跨平台解决方案)](https://juejin.cn/post/7210688688921395237)
-- [flutter：扫码枪获取数据（多平台适用方案）](https://juejin.cn/post/7186991958638723132)
-- [flutter：电子秤连接、数据获取（适配Android、Windows）](https://juejin.cn/post/7275280984290852923)
-- [flutter：打印模版动态化方案](https://juejin.cn/spost/7301242165278769179)
+- [Flutter：双屏插件（客显屏应用场景）](https://juejin.cn/post/7007678468020240414)
+- [Flutter：小票标签打印（使用widget开发票据样式的跨平台解决方案)](https://juejin.cn/post/7210688688921395237)
+- [Flutter：扫码枪获取数据（多平台适用方案）](https://juejin.cn/post/7186991958638723132)
+- [Flutter：电子秤连接、数据获取（适配Android、Windows）](https://juejin.cn/post/7275280984290852923)
+- [Flutter：打印模版动态化方案](https://juejin.cn/spost/7301242165278769179)
 <!-- BLOG-POST-LIST:END -->
+<br clear="right">
 
-<img width="681" alt="4f4cdce563488571476783a8c20d5bee" src="https://github.com/user-attachments/assets/f5a51e48-0db5-4232-b341-3b58f98d135f" />
+### 我的开源项目 [《开源库目录》](project.md)
 
+<img align="right" width="260" alt="4f4cdce563488571476783a8c20d5bee" src="https://github.com/user-attachments/assets/f5a51e48-0db5-4232-b341-3b58f98d135f" />
+
+✨ 热爱技术分享与开源，OpenHarmony 、Pub.dev 活跃贡献者，已发布10余个高质量三方库。
 </br>
-
-#### 以下是我的开源项目总览 [《开源库目录》](project.md)
-✨ 热爱技术分享与开源，OpenHarmony 、Pub.dev 活跃贡献者，已发布超过 **10** 个高质量三方库。
-
 - 💡 涉猎：`电商App`、`VR应用`、`智慧城市`、`AI大模型`、`餐饮零售`、`收银POS、自动摇茶机（数字化）`、`鸿蒙纯血` 等。
 - 🚀 开源库：`副屏双引擎插件`、`扫码枪跨平台插件`、`小票标签跨平台插件`、`称重插件`、`flutter 动态化` 等。
 - 💬`收录POS相关跨平台方案`：https://gitcode.com/cashier
-- 博客不定期更文，欢迎交流讨论😎。    [「鸿蒙 NEXT 开发专栏」](https://juejin.cn/column/7344258220389335094)、[「Flutter 开发专栏」](https://juejin.cn/column/7039538334820990983)[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3157453124930039&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3157453124930039) 
+- 博客不定期更文，欢迎交流讨论😎。    [「鸿蒙 NEXT 开发专栏」](https://juejin.cn/column/7344258220389335094)、[「Flutter 开发专栏」](https://juejin.cn/column/7039538334820990983)[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3157453124930039&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3157453124930039)
 
-</br>
+<br clear="right"/>
 
 <!-- 最近更新 -->
-#### [最近博文更新](https://juejin.cn/user/3157453124930039)
+### [最近博文更新](https://juejin.cn/user/3157453124930039)
 <!--    由工作流定时生成     -->
 <!-- rex-platform-posts start -->
 <table width="100%">
