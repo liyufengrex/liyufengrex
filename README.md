@@ -11,7 +11,7 @@
 ### 热门解决方案 [🪐](https://juejin.cn/column/7304820397404536870)
 
 <a href="https://gitcode.com/cashier">
-    <img align="right" width="420" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
+    <img align="right" width="360" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
 </a>
 
 <!-- BLOG-POST-LIST:START -->
