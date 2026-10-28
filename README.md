@@ -45,7 +45,10 @@
       <!--    由工作流定时生成     -->
       <!-- multi-platform-posts start -->
   <ul>
-<li align='left'>[6天前 👍：2  ⭐：0]
+<li align='left'>[17小时前 👍：1  ⭐：0]
+      <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
+      </li>
+<li align='left'>[7天前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
       </li>
 <li align='left'>[7个月前 👍：6  ⭐：6]
@@ -71,9 +74,6 @@
       </li>
 <li align='left'>[1年前 👍：5  ⭐：5]
       <a href="https://juejin.cn/post/7441608252038381620" target="_blank">Dart 脚本：一键整合，国际化语种翻译文件(.arb) 转 Excel</a>
-      </li>
-<li align='left'>[1年前 👍：17  ⭐：33]
-      <a href="https://juejin.cn/post/7439632499335004198" target="_blank">一站式POS跨平台功能插件，我们无偿开源了</a>
       </li>
 </ul>
     <!-- multi-platform-posts end -->
