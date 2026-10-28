@@ -46,7 +46,7 @@
       <a href="https://juejin.cn/post/7701250324648263699" target="_blank"><img src="assets/rex-platform-posts/juejin/28d9cc41944fafde.png" width="100%" alt="用一个小项目，学会开发 MCP"></a><br>
 <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
       <br>
-      23小时前
+      1天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7698620704770392127" target="_blank"><img src="assets/rex-platform-posts/juejin/13f6c9dcf333f0b8.png" width="100%" alt="项目要介绍片的话，可以试试这个 Skill"></a><br>
