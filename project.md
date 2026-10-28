@@ -122,4 +122,14 @@ Dart：空安全 JSON 解析工具，（可有效处理 json_serializable 解析
 
 基于TS开发的构建任务，通过 注解 + 构建任务 自动生成系统路由注册表
 
->链接： [npm](https://www.npmjs.com/package/route_mapping_plugin)、[github](https://github.com/liyufengrex/route_mapping_plugin) 
+>链接： [npm](https://www.npmjs.com/package/route_mapping_plugin)、[github](https://github.com/liyufengrex/route_mapping_plugin)
+
+
+# NPM Packages
+
+## 地图检索 MCP 
+#### `local-maps-mcp`
+
+基于 JS 开发的本地 MCP，使用官方 SDK @modelcontextprotocol/server 创建服务，命中意图后通过本地系统地图进行地点检索
+
+>链接： [npm](https://www.npmjs.com/package/local-maps-mcp)、[github](https://github.com/liyufengrex/mcp_search_map)
