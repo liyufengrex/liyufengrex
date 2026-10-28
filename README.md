@@ -10,7 +10,7 @@
 
 </br>
 <a href="https://gitcode.com/cashier">
-    <img align="center" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
+    <img width="568" src="https://github.com/user-attachments/assets/547c388e-66b4-43df-af50-51dce30b0a05"/>
 </a>
 </br>
 
@@ -25,8 +25,9 @@
 
 </br>
 
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image](https://img.shields.io/badge/HarmonyOS-3DDC84?style=for-the-badge&logo=harmonyOS&logoColor=white) ![image](https://img.shields.io/badge/ArkTS-0175C2?style=for-the-badge&logo=ArkTS&logoColor=white) ![image](https://img.shields.io/badge/李小轰-rex-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img width="568" height="426" alt="4f4cdce563488571476783a8c20d5bee" src="https://github.com/user-attachments/assets/f5a51e48-0db5-4232-b341-3b58f98d135f" />
 
+</br>
 
 #### 以下是我的开源项目总览 
 ✨ 热爱技术分享与开源，OpenHarmony 、Pub.dev 活跃贡献者，已发布超过 **10** 个高质量三方库，[《开源库目录大纲》](project.md)。
@@ -36,8 +37,14 @@
 - 💬`收录POS相关跨平台方案`：https://gitcode.com/cashier
 - 💬 博客: [「主页链接」](https://juejin.cn/user/3157453124930039)，[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3157453124930039&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3157453124930039) 不定期更文，欢迎交流讨论😎。    [「鸿蒙 NEXT 开发专栏」](https://juejin.cn/column/7344258220389335094)、[「Flutter 开发专栏」](https://juejin.cn/column/7039538334820990983)
 
+</br>
+
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image](https://img.shields.io/badge/HarmonyOS-3DDC84?style=for-the-badge&logo=harmonyOS&logoColor=white) ![image](https://img.shields.io/badge/ArkTS-0175C2?style=for-the-badge&logo=ArkTS&logoColor=white) ![image](https://img.shields.io/badge/李小轰-rex-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</br>
+
 <!-- 最近更新 -->
-<div align="center"><b><em><spam> Article（最近更文）</spam></em></b></div>
+<div><b><em><spam> Article（最近更文）</spam></em></b></div>
 <br/>
 <!--    由工作流定时生成     -->
 <!-- rex-platform-posts start -->
@@ -113,8 +120,6 @@
 <!-- rex-platform-posts end -->
 
 </br>
-
-<img width="1706" height="1279" alt="4f4cdce563488571476783a8c20d5bee" src="https://github.com/user-attachments/assets/f5a51e48-0db5-4232-b341-3b58f98d135f" />
 
 <br/>
 <!-- 贪吃蛇, 由工作流定时生成 -->
