@@ -46,12 +46,12 @@
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
       <br>
-      1天前
+      2天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
       <br>
-      8天前
+      9天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7618601991490306099" target="_blank">【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办</a>
