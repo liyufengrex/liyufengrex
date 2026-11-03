@@ -47,13 +47,13 @@
       <a href="https://juejin.cn/post/7701250324648263699" target="_blank"><img src="assets/rex-platform-posts/juejin/28d9cc41944fafde.png" width="100%" alt="用一个小项目，学会开发 MCP"></a><br>
 <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
       <br>
-      5天前
+      6天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7698620704770392127" target="_blank"><img src="assets/rex-platform-posts/juejin/13f6c9dcf333f0b8.png" width="100%" alt="项目要介绍片的话，可以试试这个 Skill"></a><br>
 <a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
       <br>
-      12天前
+      13天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7618601991490306099" target="_blank"><img src="assets/rex-platform-posts/juejin/7bb5a86d8340a3d6.png" width="100%" alt="【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办"></a><br>
