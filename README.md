@@ -44,25 +44,31 @@
 <table width="100%">
   <tr>
 <td width="33%" valign="top">
+      <a href="https://juejin.cn/post/7703745723029635110" target="_blank"><img src="assets/rex-platform-posts/juejin/9709eb6e6b90c274.png" width="100%" alt="零开销 AI 数字人方案｜Live2D 数字人驱动方案分享"></a><br>
+<a href="https://juejin.cn/post/7703745723029635110" target="_blank">零开销 AI 数字人方案｜Live2D 数字人驱动方案分享</a>
+      <br>
+      18小时前
+    </td>
+<td width="33%" valign="top">
       <a href="https://juejin.cn/post/7701250324648263699" target="_blank"><img src="assets/rex-platform-posts/juejin/28d9cc41944fafde.png" width="100%" alt="用一个小项目，学会开发 MCP"></a><br>
 <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
       <br>
-      6天前
+      7天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7698620704770392127" target="_blank"><img src="assets/rex-platform-posts/juejin/13f6c9dcf333f0b8.png" width="100%" alt="项目要介绍片的话，可以试试这个 Skill"></a><br>
 <a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
       <br>
-      13天前
+      14天前
     </td>
+  </tr>
+  <tr>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7618601991490306099" target="_blank"><img src="assets/rex-platform-posts/juejin/7bb5a86d8340a3d6.png" width="100%" alt="【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办"></a><br>
 <a href="https://juejin.cn/post/7618601991490306099" target="_blank">【实战篇】老板临时催包？人在外面没电脑，我的龙虾助理直接操办</a>
       <br>
       7个月前
     </td>
-  </tr>
-  <tr>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7616340145881792550" target="_blank"><img src="assets/rex-platform-posts/juejin/f540d479dfd2f150.png" width="100%" alt="AI 能做些什么？我给闺女做的第一个AI游戏"></a><br>
 <a href="https://juejin.cn/post/7616340145881792550" target="_blank">AI 能做些什么？我给闺女做的第一个AI游戏</a>
@@ -75,14 +81,14 @@
       <br>
       10个月前
     </td>
+  </tr>
+  <tr>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7586686861390757939" target="_blank"><img src="assets/rex-platform-posts/juejin/aa82913f8e594285.png" width="100%" alt="纯算法AEC：播录并行场景的回声消除实战笔记"></a><br>
 <a href="https://juejin.cn/post/7586686861390757939" target="_blank">纯算法AEC：播录并行场景的回声消除实战笔记</a>
       <br>
       10个月前
     </td>
-  </tr>
-  <tr>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7472593190920912934" target="_blank"><img src="assets/rex-platform-posts/juejin/01b2b8ff3ee1f532.png" width="100%" alt="现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能"></a><br>
 <a href="https://juejin.cn/post/7472593190920912934" target="_blank">现有Flutter项目适配鸿蒙：探索跨平台开发的无限可能</a>
@@ -92,12 +98,6 @@
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7469591708692332570" target="_blank"><img src="assets/rex-platform-posts/juejin/ab1bfcae744327f6.png" width="100%" alt="HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用"></a><br>
 <a href="https://juejin.cn/post/7469591708692332570" target="_blank">HarmonyOS：如何实现NFC碰一碰快捷唤起你的应用</a>
-      <br>
-      1年前
-    </td>
-<td width="33%" valign="top">
-      <a href="https://juejin.cn/post/7449408933905137691" target="_blank"><img src="assets/rex-platform-posts/juejin/849f97a210fbb6d6.png" width="100%" alt="李宇峰｜全栈开发成长之路：从入门实践到华为开发者专家（HDE），初学者学习指南"></a><br>
-<a href="https://juejin.cn/post/7449408933905137691" target="_blank">李宇峰｜全栈开发成长之路：从入门实践到华为开发者专家（HDE），初学者学习指南</a>
       <br>
       1年前
     </td>
