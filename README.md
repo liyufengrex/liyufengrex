@@ -44,21 +44,22 @@
 <table width="100%">
   <tr>
 <td width="33%" valign="top">
-      <a href="https://juejin.cn/post/7703745723029635110" target="_blank">零开销 AI 数字人方案｜Live2D 数字人驱动方案分享</a>
+      <a href="https://juejin.cn/post/7703745723029635110" target="_blank"><img src="assets/rex-platform-posts/juejin/9709eb6e6b90c274.png" width="100%" alt="零开销 AI 数字人方案｜Live2D 数字人驱动方案分享"></a><br>
+<a href="https://juejin.cn/post/7703745723029635110" target="_blank">零开销 AI 数字人方案｜Live2D 数字人驱动方案分享</a>
       <br>
-      4天前
+      5天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7701250324648263699" target="_blank"><img src="assets/rex-platform-posts/juejin/28d9cc41944fafde.png" width="100%" alt="用一个小项目，学会开发 MCP"></a><br>
 <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
       <br>
-      11天前
+      12天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7698620704770392127" target="_blank"><img src="assets/rex-platform-posts/juejin/13f6c9dcf333f0b8.png" width="100%" alt="项目要介绍片的话，可以试试这个 Skill"></a><br>
 <a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
       <br>
-      18天前
+      19天前
     </td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@
       <a href="https://juejin.cn/post/7616340145881792550" target="_blank"><img src="assets/rex-platform-posts/juejin/f540d479dfd2f150.png" width="100%" alt="AI 能做些什么？我给闺女做的第一个AI游戏"></a><br>
 <a href="https://juejin.cn/post/7616340145881792550" target="_blank">AI 能做些什么？我给闺女做的第一个AI游戏</a>
       <br>
-      7个月前
+      8个月前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7587254134400270345" target="_blank"><img src="assets/rex-platform-posts/juejin/a41302d12c75ea15.png" width="100%" alt="把手机变成听诊器！摄像头 30 秒隔空测心率 - 开箱即用"></a><br>
