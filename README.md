@@ -47,19 +47,19 @@
       <a href="https://juejin.cn/post/7703745723029635110" target="_blank"><img src="assets/rex-platform-posts/juejin/9709eb6e6b90c274.png" width="100%" alt="零开销 AI 数字人方案｜Live2D 数字人驱动方案分享"></a><br>
 <a href="https://juejin.cn/post/7703745723029635110" target="_blank">零开销 AI 数字人方案｜Live2D 数字人驱动方案分享</a>
       <br>
-      7天前
+      8天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7701250324648263699" target="_blank"><img src="assets/rex-platform-posts/juejin/28d9cc41944fafde.png" width="100%" alt="用一个小项目，学会开发 MCP"></a><br>
 <a href="https://juejin.cn/post/7701250324648263699" target="_blank">用一个小项目，学会开发 MCP</a>
       <br>
-      14天前
+      15天前
     </td>
 <td width="33%" valign="top">
       <a href="https://juejin.cn/post/7698620704770392127" target="_blank"><img src="assets/rex-platform-posts/juejin/13f6c9dcf333f0b8.png" width="100%" alt="项目要介绍片的话，可以试试这个 Skill"></a><br>
 <a href="https://juejin.cn/post/7698620704770392127" target="_blank">项目要介绍片的话，可以试试这个 Skill</a>
       <br>
-      21天前
+      22天前
     </td>
   </tr>
   <tr>
